@@ -62,6 +62,8 @@ p {
   margin-bottom: 30px;
 }
 
+
+
 h1, h2, h3, h4, h5, h6, figure {
   color: #000;
   font-family: "Space Mono", Arial, serif;
@@ -390,7 +392,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #fff;
+  color: #fff !important;
   background: #2F3C4F;
   padding: 10px 10px 2px 10px;
   -webkit-border-radius: 2px;
@@ -402,7 +404,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 20px;
 }
 #fh5co-about .fh5co-social-icons li a:hover {
-  background: rgba(17, 0, 255, 0.877);
+  background:rgba(17, 0, 255, 0.877);
 }
 
 .fh5co-heading {
